@@ -1,6 +1,40 @@
 // TODO: CREATE VARIABLES TO REFERENCE HTML ELEMENTS
 // TODO: AND REQUIRED VALUES FOR GAME FUNCTIONALITY
-
+var kittenList = [
+    {
+        source: 'https://placekitten.com/400/400',
+        description: 'Lookit this little cutie!'
+    },
+    {
+        source: 'https://placekitten.com/642/573',
+        description: '❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️'
+    },
+    {
+        source: 'https://placekitten.com/528/174',
+        description: 'I want to pet!!!!!'
+    },
+    {
+        source: 'https://placekitten.com/452/745',
+        description: 'too cute!?!'
+    },
+    {
+        source: 'https://placekitten.com/753/458',
+        description: 'This one is kinda weird lookin..'
+    },
+    {
+        source: 'https://placekitten.com/635/498',
+        description: 'So many kittens!'
+    },
+    {
+        source: 'https://placekitten.com/257/800',
+        description: 'what a fuzzy little face!!!!!'
+    },
+    {
+        source: 'https://www.fillmurray.com/640/360',
+        description: 'BEST ONE OF ALL!!!!!'
+    },
+    
+]
 
 
 // TODO: INITIALIZE PAGE WITH STARTER VALUES/IMAGES

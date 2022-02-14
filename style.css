@@ -48,7 +48,7 @@ body {
 }
 
 .click-me {
-    background: rgba(0, 0, 142, 0.541);
+    background: rgb(142, 0, 0);
     color: yellow;
     font-size: 2rem;
 }
