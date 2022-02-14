@@ -1,0 +1,72 @@
+/* * {
+    border: 1px solid black;
+} */
+
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0 12%;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.container {
+    width: 76%;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.img-wrapper {
+    display: flex;
+    justify-content: center;
+    height: 30vh;
+}
+
+.kitten-img {
+    height: 90%;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+    margin: 40px 0;
+}
+
+.start-btn {
+    background: rgb(0, 74, 0);
+    color: white;
+    font-size: 2rem;
+}
+
+.click-me {
+    background: rgba(0, 0, 142, 0.541);
+    color: yellow;
+    font-size: 2rem;
+}
+
+.timer-wrapper {
+    display: flex;
+    justify-content: center;
+    font-family: monospace;
+    margin: 40px 0;
+}
+
+.timer {
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgb(164, 0, 0);
+}
+
+.scores-wrapper {
+    display: flex;
+    justify-content: center;
+}
