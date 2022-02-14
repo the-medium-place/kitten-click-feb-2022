@@ -33,7 +33,7 @@ var kittenList = [
         source: 'https://www.fillmurray.com/640/360',
         description: 'BEST ONE OF ALL!!!!!'
     },
-    
+
 ]
 
 
@@ -41,7 +41,7 @@ var kittenList = [
 
 
 // TODO: USER CLICKS START BUTTON TO START GAME - 
-    
+    // ==================
     // GAME FUNCTIONALITY
     // ==================
     // TODO: HIDE START BUTTON
@@ -56,8 +56,11 @@ var kittenList = [
 
 
 
+// TODO: TIMER RUNS OUT, GAME HAS ENDED
+    // ======================
     // END-GAME FUNCTIONALITY
     // ======================
     // TODO: GET USER INITIALS
     // TODO: SAVE USER/SCORE TO LOCALSTORAGE
-    // TODO: RESET PAGE FOR NEW GAME AND SHOW SCORES
+    // TODO: RESET PAGE AND VARIABLES FOR NEW GAME
+    // TODO: ...AND SHOW/RENDER SCORES
